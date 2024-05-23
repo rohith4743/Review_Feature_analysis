@@ -1,0 +1,107 @@
+Top 10 1-grams
+Label: CG
+('great',): 10960
+('book',): 9820
+('good',): 9597
+('one',): 6935
+('love',): 6893
+('story',): 6762
+('would',): 6510
+('well',): 6215
+('read',): 5619
+('little',): 5377
+
+
+Label: OR
+('one',): 7163
+('great',): 6315
+('like',): 5465
+('book',): 5249
+('good',): 4998
+('would',): 4768
+('well',): 4391
+('love',): 3981
+('get',): 3805
+('really',): 3689
+
+
+Top 10 2-grams
+Label: CG
+('would', 'recommend'): 2594
+('well', 'developed'): 1150
+('characters', 'well'): 1127
+('well', 'written'): 1117
+('highly', 'recommend'): 1080
+('recommend', 'anyone'): 1034
+('well', 'made'): 866
+('enjoyed', 'book'): 850
+('read', 'book'): 831
+('story', 'well'): 797
+
+
+Label: OR
+('year', 'old'): 533
+('highly', 'recommend'): 424
+('would', 'recommend'): 396
+('well', 'made'): 388
+('works', 'great'): 333
+('cant', 'wait'): 324
+('even', 'though'): 290
+('read', 'book'): 261
+('dont', 'know'): 257
+('much', 'better'): 256
+
+
+Top 10 3-grams
+Label: CG
+('characters', 'well', 'developed'): 911
+('would', 'recommend', 'anyone'): 739
+('would', 'definitely', 'recommend'): 537
+('reason', 'gave', 'stars'): 484
+('story', 'well', 'told'): 438
+('exchange', 'honest', 'review'): 422
+('would', 'recommend', 'book'): 399
+('really', 'enjoyed', 'book'): 398
+('recommend', 'book', 'anyone'): 378
+('good', 'acting', 'good'): 372
+
+
+Label: OR
+('exchange', 'honest', 'review'): 112
+('cant', 'wait', 'read'): 102
+('would', 'definitely', 'recommend'): 73
+('would', 'highly', 'recommend'): 73
+('cant', 'wait', 'next'): 57
+('last', 'long', 'time'): 55
+('would', 'recommend', 'anyone'): 52
+('year', 'old', 'daughter'): 51
+('easy', 'put', 'together'): 46
+('love', 'love', 'love'): 45
+
+
+Top 10 4-grams
+Label: CG
+('acting', 'good', 'acting', 'good'): 318
+('good', 'acting', 'good', 'acting'): 292
+('would', 'recommend', 'book', 'anyone'): 269
+('characters', 'well', 'developed', 'story'): 253
+('cant', 'wait', 'read', 'next'): 202
+('book', 'exchange', 'honest', 'review'): 200
+('cant', 'wait', 'see', 'happens'): 197
+('problem', 'comes', 'small', 'screw'): 195
+('received', 'free', 'copy', 'book'): 171
+('copy', 'book', 'exchange', 'honest'): 164
+
+
+Label: OR
+('exchange', 'honest', 'unbiased', 'review'): 32
+('classasection', 'aspacingsmall', 'aspacingtopmini', 'videoblockdivinput'): 30
+('aspacingsmall', 'aspacingtopmini', 'videoblockdivinput', 'typehidden'): 30
+('aspacingtopmini', 'videoblockdivinput', 'typehidden', 'name'): 30
+('div', 'classasection', 'aspacingsmall', 'aspacingtopmini'): 29
+('cant', 'wait', 'read', 'next'): 28
+('videoblockdivinput', 'typehidden', 'name', 'classvideourlinput'): 27
+('typehidden', 'name', 'classvideourlinput', 'typehidden'): 27
+('name', 'classvideourlinput', 'typehidden', 'name'): 27
+('book', 'exchange', 'honest', 'review'): 20
+
